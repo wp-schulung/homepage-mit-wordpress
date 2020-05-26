@@ -3,3 +3,16 @@
 # 310
 ## Übersetzungsdateien hinzufügen
 Die Übersetzung von WordPress Textstrings erfolgt mit _GetText Portable Object (PO)_ Dateien. Dies ist ein weitverbreiter Industriestandard und basiert auf _.pot_, _.po_ und _.mo_ Dateien. (Vergleiche: [How to Translate With GetText PO and POT Files](https://www.icanlocalize.com/site/tutorials/how-to-translate-with-gettext-po-and-pot-files/)
+
+
+
+### Begriffe (Glossary)
+
+
+
+### Konzepte
+
+
+
+### Arbeitsschritte (Step by Step)
+
