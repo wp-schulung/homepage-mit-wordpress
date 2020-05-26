@@ -40,8 +40,6 @@ Interner Link zur [Kapitelüberschrift 2](#kapitel2) (vergl. [http://help.leanpu
 
 (Die Kapitelüberschriften müssen ausgezeichnet werden: `{#kapitel}` am besten direkt vor der Kapitelüberschrift)
 
-{#kapitel2}
-
 
 
 ## Bilder
@@ -67,9 +65,13 @@ ansonsten funktionieren Bilder fast wie Links:
 
 ![Marmalade and Tangerine](resources/marm-and-tangie.jpg)
 
+{#kapitel2}
+
 # Kapitel 2
 
 (dient dem Zeigen von Querverlinkung)
+
+zurück zu [Kapitel1](#kapitel1)
 
 
 
