@@ -1,12 +1,6 @@
 # Verstehen
 
-Mit WordPress verwalten Sie Ihre Seiten und Artikel auch ohne tiefergehende HTML- und CSS-Kenntnisse direkt über den Browser. Für WordPress gibt es Tausende kostenlose Vorlagen ([Themes](https://wordpress.org/themes)) sowie mehr als 47’000 [Plugins](https://wordpress.org/plugins/) mit denen Sie WordPress um unterschiedlichste Funktionen erweitern können.
-
-
-
-TODO: Stats update
-
-
+Mit WordPress verwalten Sie Ihre Seiten und Artikel auch ohne tiefergehende HTML- und CSS-Kenntnisse direkt über den Browser. Für WordPress gibt es Tausende kostenlose Vorlagen ([Themes](https://wordpress.org/themes)) sowie mehr als 54’000 [Plugins](https://wordpress.org/plugins/) mit denen Sie WordPress um unterschiedlichste Funktionen erweitern können.
 
 ## Bevor Sie beginnen
 
