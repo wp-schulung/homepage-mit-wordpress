@@ -42,6 +42,18 @@ Interner Link zur [Kapitelüberschrift 2](#kapitel2) (vergl. [http://help.leanpu
 
 {#kapitel2}
 
+Fussnoten werden mit eckigen Klammern und einem "caret" ausgezeichnet. Hinter dem Caret erscheint die ID der Fussnote, die später im Text identisch jedoch zusätzlich mit einem Doppelpunkt am Ende gefolgt von der Erklärung ausgegeben wird.
+
+```
+This has a footnote[^thenote].
+```
+
+Then, you define the footnote later in the document, using the same  square brackets, caret and tag, followed by a colon, a space and the  footnote definition:
+
+```
+[^thenote]: This is the footnote content.
+```
+
 
 
 ## Bilder
@@ -66,6 +78,40 @@ ansonsten funktionieren Bilder fast wie Links:
 `![Marmalade and Tangerine](resources/marm-and-tangie.jpg)`
 
 ![Marmalade and Tangerine](resources/marm-and-tangie.jpg)
+
+standardmässig sind sie zentriert.
+
+Folgende Attribute sind möglich (bzw. werden in diesem Buch genutzt. Vergl. [The Markua Manual > Images](https://leanpub.com/markua/read#images))
+
+align: left | right | middle
+
+alt: 
+
+width / height: percentage 1%-100%, use golden ratio: 72:28
+
+
+
+```markdown
+{alt: "Alternativer Alternativ-Text?", align: right, width: 28%}
+![Marmalade and Tangerine](resources/marm-and-tangie.jpg
+```
+
+
+
+{alt: "Alternativer Alternativ-Text?", align: left, width: 28%}
+![Marmalade and Tangerine](resources/marm-and-tangie.jpg)
+
+## Zitate
+
+Quotes beginnen mit > und einem Leerschlag:
+
+> Dies ist ein Zitat.
+
+Für längere Zitate geht es auch mit
+
+```markdown
+{blockquote} … {/blockquote}
+```
 
 # Kapitel 2
 
